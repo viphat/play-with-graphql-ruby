@@ -36,6 +36,9 @@ group :development, :test do
 
   gem 'graphiql-rails'
   gem 'faker'
+  gem 'pry'
+  gem 'pry-rails'
+  gem 'pry-byebug'
 end
 
 group :development do
